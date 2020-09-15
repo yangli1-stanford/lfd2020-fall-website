@@ -36,225 +36,219 @@ xxx three people
 
 === Schedule
 {{
-<table style="border-collapse: collapse; border: medium none; border-spacing: 0px;">
+<table>
 	<tr>
-		<td style="border-color: black; border-style: solid; border-width: 1px; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			Date
-		</td>
-		<td style="border-right: 1px solid black; border-top: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<th style="text-align:center;border: 1px solid gray">Date
+		</th>
+		<th style="text-align:center;border: 1px solid gray;" >
 			Topic
-		</td>
-		<td style="border-right: 1px solid black; border-top: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		</th>
+		<th style="text-align:center;border: 1px solid gray;" >
 			Homework release
-		</td>
+		</th>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			9/18
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Review Session (optional)
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			WA0 (don't need to hand in)
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			9/20
+		<td style="color: red;">
+			9/20 Sunday 9:20-12:00am
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Introduction (make up for 9/18)
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			9/25
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			Supervised Learning I        Linear regression   Logistic regression
+		<td>
+			Supervised Learning I: Linear regression and Logistic regression
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			PA1
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			10/2
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Chinese National Day
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			10/9
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Supervised Learning II          Generalized linear model   Model selection
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			WA1
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			10/16
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Supervised Learning III          Generative model: GDA       Generative model: naive Bayesian model
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			PA2
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			10/23
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Supervised Learning IV          Support vector machines
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			WA2
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			10/30
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Supervised Learning V    Deep neural networks
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			PA3
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			11/6
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Midterm
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			11/13
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Unsupervised Learning I       K-means clustering  Principal component analysis Independent component analysis
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			WA3
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			11/20
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Unsupervised Learning II       Canonical component analysis  Maximal HGR correlation
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			PA4
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			11/27
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Unsupervised Learning III       Mixture Gaussian and EM algorithm   Spectral Clustering
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			WA4, Final Project
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			12/4
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Machine Learning Theory I       Regularization Empirical risk, VC dimension
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			12/11
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Machine Learning Theory II      Hypothesis testing
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			12/18
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Reinforcement Learning       Markov decision process  Value iteration and policy iteration  Q-Learning
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			WA5
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			12/25
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Advanced Topic I     Transfer Learning
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			1/1
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Advanced Topic II Semi-supervised learning
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			1/8
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Final Project Presentation I
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 		</td>
 	</tr>
 	<tr>
-		<td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			1/15
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 			Final Project Presentation II
 		</td>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td>
 		</td>
 	</tr>
 </table>
 }}
 
-. Review Session 9/18
-. Introduction 9/20 (detailed)
-. Supervised Learning I 9/25
-  .. Linear regression
-  .. Logistic regression
-
-add a syllabus link here
+==== Syllabus
+[./syllabus.pdf Syllabus pdf]
