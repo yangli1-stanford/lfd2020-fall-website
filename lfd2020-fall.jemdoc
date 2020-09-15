@@ -16,6 +16,8 @@ Welcome to the class website of Learning from Data!
 - Time: Friday 9:20-11:30
 - Location: Info Building
 
+For more information about grading, homework and exam policies, see the [./media/syllabus.pdf class syllabus].
+
 ==== Description
 This introductory course gives an overview of many concepts, techniques, and algorithms in machine learning, beginning with topics such as logistic regression and SVM and ending up with more recent topics such as deep neural networks and reinforcement learning. The course will give the student the basic ideas and intuition behind modern machine learning methods as well as a bit more formal understanding of how, why, and when they work. The underlying theme in the course is statistical inference as it provides the foundation for most of the methods covered.
 
@@ -259,5 +261,3 @@ TAs
 </table>
 }}
 
-==== Syllabus
-[./media/syllabus.pdf Syllabus pdf]
