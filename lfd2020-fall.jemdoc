@@ -4,10 +4,9 @@
 
 Welcome to the class website of Learning from Data!
 
-=== Announcement
 ~~~
 {Announcement} 
-9/9/2020: Since the first scheduled class conflicts with the Graduate School Admission Interview, the first class is switched to Sunday morning.
+2020-09-09: Since the first scheduled class conflicts with the Graduate School Admission Interview, the first class is switched to Sunday morning.
 ~~~
 
 
@@ -37,7 +36,7 @@ TAs
 
 - Professor Yang: Friday 2:00-4:00pm
 - TA Feng Zhao: Friday 8:00-10:00pm
-- TA Weida Wang: 
+- TA Weida Wang: Friday 6:00-8:00pm
 
 
 
@@ -84,7 +83,9 @@ TAs
 			9/25
 		</td>
 		<td>
-			Supervised Learning I: Linear regression and Logistic regression
+			Supervised Learning I: <br/>
+			Linear regression<br/>
+			Logistic regression
 		</td>
 		<td>
 			PA1
@@ -105,7 +106,9 @@ TAs
 			10/9
 		</td>
 		<td>
-			Supervised Learning II          Generalized linear model   Model selection
+			Supervised Learning II:<br/>
+			Generalized linear model<br/>
+			Model selection
 		</td>
 		<td>
 			WA1
@@ -116,7 +119,9 @@ TAs
 			10/16
 		</td>
 		<td>
-			Supervised Learning III          Generative model: GDA       Generative model: naive Bayesian model
+			Supervised Learning III: <br/>
+			Generative model: GDA <br/>
+			Generative model: naive Bayesian model
 		</td>
 		<td>
 			PA2
@@ -127,7 +132,8 @@ TAs
 			10/23
 		</td>
 		<td>
-			Supervised Learning IV          Support vector machines
+			Supervised Learning IV<br/>
+			Support vector machines
 		</td>
 		<td>
 			WA2
@@ -138,7 +144,8 @@ TAs
 			10/30
 		</td>
 		<td>
-			Supervised Learning V    Deep neural networks
+			Supervised Learning V:<br/>
+			Deep neural networks
 		</td>
 		<td>
 			PA3
@@ -159,7 +166,10 @@ TAs
 			11/13
 		</td>
 		<td>
-			Unsupervised Learning I       K-means clustering  Principal component analysis Independent component analysis
+			Unsupervised Learning I:<br/>
+			K-means clustering<br/>
+			Principal component analysis<br/>
+			Independent component analysis
 		</td>
 		<td>
 			WA3
@@ -170,7 +180,9 @@ TAs
 			11/20
 		</td>
 		<td>
-			Unsupervised Learning II       Canonical component analysis  Maximal HGR correlation
+			Unsupervised Learning II:<br/>
+			Canonical component analysis<br/>
+			Maximal HGR correlation
 		</td>
 		<td>
 			PA4
@@ -181,7 +193,9 @@ TAs
 			11/27
 		</td>
 		<td>
-			Unsupervised Learning III       Mixture Gaussian and EM algorithm   Spectral Clustering
+			Unsupervised Learning III:<br/>
+			Mixture Gaussian and EM algorithm <br/>
+			Spectral Clustering
 		</td>
 		<td>
 			WA4, Final Project
@@ -192,7 +206,9 @@ TAs
 			12/4
 		</td>
 		<td>
-			Machine Learning Theory I       Regularization Empirical risk, VC dimension
+			Machine Learning Theory I <br/>
+			Regularization <br/>
+			Empirical risk, VC dimension
 		</td>
 		<td>
 		</td>
@@ -202,7 +218,8 @@ TAs
 			12/11
 		</td>
 		<td>
-			Machine Learning Theory II      Hypothesis testing
+			Machine Learning Theory II <br/>
+			Hypothesis testing
 		</td>
 		<td>
 		</td>
@@ -212,7 +229,10 @@ TAs
 			12/18
 		</td>
 		<td>
-			Reinforcement Learning       Markov decision process  Value iteration and policy iteration  Q-Learning
+			Reinforcement Learning: <br/>
+			Markov decision process <br/>
+			Value iteration and policy iteration <br/>
+			Q-Learning
 		</td>
 		<td>
 			WA5
@@ -223,7 +243,8 @@ TAs
 			12/25
 		</td>
 		<td>
-			Advanced Topic I     Transfer Learning
+			Advanced Topic I <br/>
+			Transfer Learning
 		</td>
 		<td>
 		</td>
@@ -233,7 +254,8 @@ TAs
 			1/1
 		</td>
 		<td>
-			Advanced Topic II Semi-supervised learning
+			Advanced Topic II:<br/>
+			Semi-supervised learning
 		</td>
 		<td>
 		</td>
