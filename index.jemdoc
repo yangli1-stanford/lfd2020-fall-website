@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{lfd2020-fall.html},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css},addjs{http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min},addjs{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min}
+# jemdoc: menu{MENU}{index.html},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css},addjs{http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min},addjs{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min}
 
 == Learning from Data (Fall 2020)
 
@@ -26,7 +26,7 @@ Basic concepts in calculus, probability theory, and linear algebra.
 
 ==== Team
 Instructor:
-- Yang Li <tori2011@gmail.com>
+- Yang Li <yangli@sz.tsinghua.edu.cn>
 
 TAs
 - Weida Wang <fiatluxwang@gmail.com>
@@ -40,20 +40,16 @@ TAs
 
 
 
-
-
-
-
 === Schedule
 {{
-<table class="table">
+<table class="table table-striped">
 	<tr>
-		<th style="text-align:center;border: 1px solid gray">Date
+		<th>Date
 		</th>
-		<th style="text-align:center;border: 1px solid gray;" >
+		<th> 
 			Topic
 		</th>
-		<th style="text-align:center;border: 1px solid gray;" >
+		<th>
 			Homework release
 		</th>
 	</tr>
@@ -90,8 +86,7 @@ TAs
 		<td>
 			PA1
 		</td>
-	</tr>
-	<tr>
+	</tr>	<!--<tr>
 		<td>
 			10/2
 		</td>
@@ -279,7 +274,7 @@ TAs
 		</td>
 		<td>
 		</td>
-	</tr>
+	</tr>-->
 </table>
 }}
 
