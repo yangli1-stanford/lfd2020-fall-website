@@ -5,7 +5,7 @@
 Welcome to the class website of Learning from Data!
 
 ~~~
-{Announcement} 
+{Announcement}
 2020-09-09: Since the first scheduled class conflicts with the Graduate School Admission Interview, the first class is switched to Sunday morning.
 ~~~
 
@@ -22,7 +22,7 @@ This introductory course gives an overview of many concepts, techniques, and alg
 
 ==== Prerequisites
 
-Basic concepts in calculus, probability theory, and linear algebra. 
+Basic concepts in calculus, probability theory, and linear algebra.
 
 ==== Team
 Instructor:
@@ -46,7 +46,7 @@ TAs
 	<tr>
 		<th>Date
 		</th>
-		<th> 
+		<th>
 			Topic
 		</th>
 		<th>
@@ -58,8 +58,8 @@ TAs
 			9/18
 		</td>
 		<td>
-			Review Session (optional)
-		</td>
+			Review Session (optional)}} [media/review.pdf Notes]
+	{{ 	</td>
 		<td>
 			<a href="./media/HW0.pdf">WA0</a>
 		</td>
@@ -69,8 +69,8 @@ TAs
 			9/20 Sunday 9:20-12:00am
 		</td>
 		<td>
-			Introduction (make up for 9/18)
-		</td>
+			Introduction (make up for 9/18)}} [media/lecture1-handout.pdf Slides]
+	{{ </td>
 		<td>
 		</td>
 	</tr>
@@ -277,4 +277,3 @@ TAs
 	</tr>-->
 </table>
 }}
-
