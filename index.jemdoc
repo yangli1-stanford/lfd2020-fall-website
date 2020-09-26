@@ -6,14 +6,17 @@ Welcome to the class website of Learning from Data!
 
 ~~~
 {Announcement}
-2020-09-09: Since the first scheduled class conflicts with the Graduate School Admission Interview, the first class is switched to Sunday morning.
+
+*2020-09-28*: The make-up lecture for the National holiday will be held on Sunday, Sept 28th at 9:20am
+
+*2020-09-09*: Since the first scheduled class conflicts with the Graduate School Admission Interview, the first class is switched to Sunday morning.
 ~~~
 
 
 === Class info
 
 - Time: Friday 9:20-11:30
-- Location: Info Building
+- Location: Info Building 510
 
 For more information about grading, homework and exam policies, see the [./media/syllabus.pdf class syllabus].
 
@@ -58,7 +61,7 @@ TAs
 			9/18
 		</td>
 		<td>
-			Review Session (optional)}} [media/review.pdf Notes] [media/scientific_programming.pdf Slides] [media/snippets.ipynb Code snippets]
+			Review Session (optional)}} [media/review.pdf (notes)] [media/scientific_programming.pdf (slides)] [media/snippets.ipynb (code snippets)]
 	{{ 	</td>
 		<td>
 			<a href="./media/HW0.pdf">WA0</a>
@@ -69,7 +72,7 @@ TAs
 			9/20 Sunday 9:20-12:00am
 		</td>
 		<td>
-			Introduction (make up for 9/18)}} [media/lecture1-handout.pdf Slides]
+			Introduction (make up for 9/18) }}  [media/lecture1-handout.pdf (slides)]
 	{{ </td>
 		<td>
 		</td>
@@ -79,23 +82,25 @@ TAs
 			9/25
 		</td>
 		<td>
-			Supervised Learning I: <br/>
-			Linear regression<br/>
-			Logistic regression
+			Supervised Learning I <br/> }}
+			[media/lecture2-handout.pdf (slides)]
+			[media/lecture2-annotated.pdf (slides with notes)]{{
 		</td>
 		<td>
 			PA1
 		</td>
-	</tr>	<!--<tr>
+	</tr>	<tr>
 		<td>
-			10/2
+			9/28
 		</td>
 		<td>
-			Chinese National Day
+			Supervised Learning II:<br/>
+			Generalized linear model<br/>
+			Model selection
 		</td>
 		<td>
 		</td>
-	</tr>
+	</tr><!--
 	<tr>
 		<td>
 			10/9
