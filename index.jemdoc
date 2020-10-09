@@ -98,37 +98,27 @@ TAs
 		<td>
 			Supervised Learning II:<br/>
 			Generalized linear model<br/>
-			Model selection
+			Model selection <br/>}}
+			[media/lecture3.pdf (slides)]{{
 		</td>
 		<td>
-		</td>
-	</tr><!--
-	<tr>
-		<td>
-			10/9
-		</td>
-		<td>
-			Supervised Learning II:<br/>
-			Generalized linear model<br/>
-			Model selection
-		</td>
-		<td>
-			WA1
 		</td>
 	</tr>
 	<tr>
 		<td>
-			10/16
+			10/09
 		</td>
 		<td>
 			Supervised Learning III: <br/>
 			Generative model: GDA <br/>
-			Generative model: naive Bayesian model
+			Generative model: naive Bayesian model<br/>}}
+			[media/lecture4-handout.pdf (slides)]
+			[media/Compare_GDA_LR_v3.ipynb (code snippets)]{{
 		</td>
 		<td>
-			PA2
+			
 		</td>
-	</tr>
+	</tr><!--
 	<tr>
 		<td>
 			10/23
