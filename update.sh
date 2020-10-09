@@ -1,4 +1,4 @@
 git pull origin master
-jemdoc *.jemdoc
+jemdoc index.jemdoc
 ./deploy.sh
 
