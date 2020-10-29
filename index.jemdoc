@@ -61,11 +61,16 @@ TAs
 			9/18
 		</td>
 		<td>
-			Review Session (optional)}} [media/review.pdf (notes)] [media/scientific_programming.pdf (slides)] [media/snippets.ipynb (code snippets)]
+			Review Session (optional) <br/>}}
+			[media/review.pdf (notes)] |
+			[media/scientific_programming.pdf (slides)] |
+			[media/snippets.ipynb (code snippets)]
 	{{ 	</td>
 		<td>
-			<a href="./media/HW0.pdf">WA0</a>&nbsp;
-			<a href="./media/HW0_solution.pdf">WA0 solution</a>
+		}}
+			[media/HW0.pdf WA0] |
+				[media/HW0_solution.pdf WA0 solution]
+			{{
 		</td>
 	</tr>
 	<tr>
@@ -84,7 +89,7 @@ TAs
 		</td>
 		<td>
 			Supervised Learning I <br/> }}
-			[media/lecture2-handout.pdf (slides)]
+			[media/lecture2-handout.pdf (slides)] |
 			[media/lecture2-annotated.pdf (slides with notes)]{{
 		</td>
 		<td>
@@ -99,11 +104,13 @@ TAs
 			Supervised Learning II:<br/>
 			Generalized linear model<br/>
 			Model selection <br/>}}
-			[media/lecture3.pdf (slides)]{{
+			[media/lecture3.pdf (slides)] |
+			[media/lecture3-annotated.pdf (slides with notes)]{{
 		</td>
 		<td>
 			}}
-			[media/WA1.pdf WA1]{{		
+			[media/WA1.pdf WA1] |
+			[media/WA1-solution.pdf WA1 solution]{{
 		</td>
 	</tr>
 	<tr>
@@ -114,7 +121,8 @@ TAs
 			Supervised Learning III: <br/>
 			Generative model: GDA <br/>
 			Generative model: naive Bayesian model<br/>}}
-			[media/lecture4-handout.pdf (slides)]
+			[media/lecture4-handout.pdf (slides)] |
+			[media/lecture4-annotated.pdf (slides with notes)] |
 			[media/Compare_GDA_LR_v3.ipynb (code snippets)]{{
 		</td>
 		<td>
@@ -127,10 +135,11 @@ TAs
 		<td>
 			Supervised Learning IV<br/>
 			Support vector machines<br/>}}
-			[media/lecture5_handout.pdf (slides)]{{
+			[media/lecture5-handout.pdf (slides)] |
+			[media/lecture5-annotated.pdf (slides with notes)]{{
 		</td>
-		<td>
-			WA2
+		<td>}}
+			[media/WA2.pdf WA2]{{
 		</td>
 	</tr>
 	<tr>
@@ -139,21 +148,25 @@ TAs
 		</td>
 		<td>
 			Supervised Learning V:<br/>
-			Deep neural networks<br/>}}
-			[media/lecture6_handout.pdf (slides)]{{
+			Deep neural networks }}
+			[media/lecture6-handout.pdf (slides \#1)] |
+			[media/lecture6-part2.pptx (slides \#2)]{{
 		</td>
 		<td>
 			}}
-			[media/PA2.pdf PA2]{{
+			[media/PA2.pdf PA2] |
+			[media/PA2_slides.pdf PA2 tutorial]{{
 		</td>
 	</tr>
-	<!--
 	<tr>
 		<td>
 			11/6
 		</td>
 		<td>
-			Midterm
+			Unsupervised Learning I:<br/>
+			K-means clustering<br/>
+			Principal component analysis<br/>
+			Independent component analysis
 		</td>
 		<td>
 		</td>
@@ -163,15 +176,13 @@ TAs
 			11/13
 		</td>
 		<td>
-			Unsupervised Learning I:<br/>
-			K-means clustering<br/>
-			Principal component analysis<br/>
-			Independent component analysis
+			Midterm Exam
 		</td>
 		<td>
-			WA3
+		WA3
 		</td>
 	</tr>
+	<!--
 	<tr>
 		<td>
 			11/20
