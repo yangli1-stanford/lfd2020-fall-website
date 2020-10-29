@@ -7,6 +7,9 @@ Welcome to the class website of Learning from Data!
 ~~~
 {Announcement}
 
+*2020-10-29*: The midterm exam will be held in class on Friday, November 6th.
+ For anyone who can not attend the in-class exam, please contact a TA to fill out the online exam application before Nov 3rd.
+
 *2020-09-28*: The make-up lecture for the National holiday will be held on Sunday, Sept 28th at 9:20am
 
 *2020-09-09*: Since the first scheduled class conflicts with the Graduate School Admission Interview, the first class is switched to Sunday morning.
@@ -165,8 +168,8 @@ TAs
 		<td>
 			Unsupervised Learning I:<br/>
 			K-means clustering<br/>
-			Principal component analysis<br/>
-			Independent component analysis
+			Principal component analysis<br/>}}
+			[media/lecture7-handout.pdf (slides)]{{
 		</td>
 		<td>
 		</td>
