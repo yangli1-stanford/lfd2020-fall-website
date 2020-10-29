@@ -4,6 +4,9 @@ http://yangli-feasibility.com/home/classes/lfd2020fall/
 
 Learning from data 2020 fall
 
+## Alternative source:
+ssh:yangli-feasibility.com:/var/www/git/lfd2020-fall-website.git
+
 ## How to build
 
 Install JemDoc+MathJax:
