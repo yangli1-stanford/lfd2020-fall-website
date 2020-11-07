@@ -1,4 +1,4 @@
-git pull yang master
+git pull origin master
 jemdoc index.jemdoc
 ./deploy.sh
 
