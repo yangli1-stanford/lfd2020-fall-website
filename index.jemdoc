@@ -186,7 +186,7 @@ TAs
 		WA3
 		</td>
 	</tr>
-	<!--
+	
 	<tr>
 		<td>
 			11/20
@@ -194,12 +194,14 @@ TAs
 		<td>
 			Unsupervised Learning II:<br/>
 			Canonical component analysis<br/>
-			Maximal HGR correlation
+			Maximal HGR correlation}}
+			[media/lecture8-handout.pdf (slides)]{{
 		</td>
 		<td>
 			PA4
 		</td>
 	</tr>
+	<!--
 	<tr>
 		<td>
 			11/27
