@@ -191,8 +191,8 @@ TAs
 		</td>
 		<td>
 			Unsupervised Learning II:<br/>
-			Canonical component analysis<br/>
-			Maximal HGR correlation<br/>}}
+			Independent component analysis<br/>
+			Canonical component analysis<br/>}}
 			[media/lecture8-handout.pdf (slides)]{{
 		</td>
 		<td>
@@ -206,7 +206,7 @@ TAs
 		</td>
 		<td>
 			Unsupervised Learning III:<br/>
-			Mixture Gaussian and EM algorithm <br/>
+			Maximal HGR correlation<br/>
 			Spectral Clustering}}
 			[media/lecture9-handout.pdf (slides)]{{
 		</td>
