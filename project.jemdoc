@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{project.html},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css},addjs{http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min},addjs{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min}
+
+== Project Information (Fall 2020)
+
+=== Group
+The final project will be done in groups of (up to) 2 students. Please submit your group member information to Web Learning before {\bf Dec. 2$^{\text{nd}}$}. Students who didn't submit their intention then will be assigned a random team.
+
+=== Topic
+This will be an open-topic project. You can study anything you are interested in as long as it clearly pertains to the course material. We also provide some possible topics in section 2 for your reference.
+
+=== Proposal
+Please submit a proposal of your final project before {\bf Dec. 11$^{\text{st}}$}. This proposal should be no more than 1 page (not including references), describing the topic, background, related work, problem and main proposal of your project. After that, please arrange a meeting with course staff including Prof. Li, Feng Zhao and Weida between {\bf Dec. 14$^{\text{th}}$}-{\bf Dec. 16$^{\text{th}}$}. They can provide some advises on your project. 
+
+=== Presentation
+We will have a poster presentation session. Please make a poster in A0-size to describe your work and submit it to Web Learning before {\bf Dec. 27$^{\text{th}}$}. You will present your work and evaluate others in our final class on {\bf Dec. 31$^{\text{th}}$}. The poster template will be released soon.
+
+=== Final Report
+Each group should submit a written report in a single {\bf PDF} document with at least {\bf 4 pages} before {\bf Jan. 13$^{\text{th}}$, 2021}. All related materials, e.g., codes, should also be provided.
+
+=== Grades
+The final project counts 20\% in your final course grades. Full credits of Final project is 100 points, which include:\\
+
+- Proposal: 10 points
+- Poster Presentation Grades (Instructor and Guests): 20 points.
+- Poster Presentation Grades (Other teams): 10 points.
+- Final Report Grades: 60 points.
+
