@@ -27,3 +27,26 @@ The final project counts 20\% in your final course grades. Full credits of Final
 - Poster Presentation Grades (Other teams): 10 points.
 - Final Report Grades: 60 points.
 
+== Sample Project Ideas and Datasets
+- DRIVE: Digital Retinal Images for Vessel Extraction [https://drive.grand-challenge.org/DRIVE/]
+- Nature Language Processing: Chinese Resume Analysis. Contact TA for datasets if you are interested.
+- Repeat Buyers Prediction. [https://tianchi.aliyun.com/competition/entrance/231576/introduction]
+- CCF General Audio Classification Challenge [https://www.datafountain.cn/competitions/486]
+- IEEE Healthcom 2020 Challenge: Depression Prediction with EEG. [https://www.biendata.xyz/competition/modma/]
+- OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction [https://www.kaggle.com/c/stanford-covid-vaccine/overview]
+- XPRIZE Pandemic Response Challenge: How Policies influence COVID. [https://xprize.org/pandemicresponse].
+
+== Excellent presentation of 2019
+- [media/wangweida.pdf The Application of Gradient-based Meta-learning Scheme on Few-shot Learning]
+- [media/2019214603.pdf Career Analysis by Spatial-Temporal Network]
+- [media/2019214606.pdf Multi-Source Learning based on a feature transferable framework]
+- [media/2019214638.pdf Use Information Flow Graph Attention Network to Optimize Stock Movement Prediction]
+- [media/2019312695.pdf Network-based Anomaly Detection against IoT Cyber attacks using CNN-LSTM Autoencoder]
+
+== Common Pitfalls
+- Simply run a model from an existing work on a slightly different dataset:
+    think of your contribution in at least one of the following areas: 
+    application, analysis , methodology and theory.
+- Topic is too broad or too ambitious: reduce the project scope
+- Project relies heavily on data availability/quality: use available datasets
+
