@@ -232,6 +232,21 @@ TAs
 			[media/WA4.pdf WA4]{{		
 		</td>
 	</tr>
+	<tr>
+		<td>
+			12/11
+		</td>
+		<td>
+			Reinforcement Learning: <br/>
+			Markov decision process <br/>
+			Value iteration and policy iteration <br/>
+			Q-Learning<br/>}}
+			[media/lecture11-handout.pdf (slides)]{{
+		</td>
+		<td>
+			WA5
+		</td>
+	</tr>	
 	<!--
 	<tr>
 		<td>
@@ -242,20 +257,6 @@ TAs
 			Hypothesis testing
 		</td>
 		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			12/11
-		</td>
-		<td>
-			Reinforcement Learning: <br/>
-			Markov decision process <br/>
-			Value iteration and policy iteration <br/>
-			Q-Learning
-		</td>
-		<td>
-			WA5
 		</td>
 	</tr>
 	<tr>
