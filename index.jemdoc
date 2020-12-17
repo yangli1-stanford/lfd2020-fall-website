@@ -246,22 +246,24 @@ TAs
 		<td>
 			WA5
 		</td>
-	</tr>	
-	<!--
+	</tr>		
 	<tr>
 		<td>
-			12/4
+			12/17
 		</td>
 		<td>
-			Machine Learning Theory II <br/>
-			Hypothesis testing
+			Bias and variance trade off <br/>
+			Model selection <br/>
+			Learning theory <br/>}}
+			[media/lec12-handout.pdf (slides)]{{
 		</td>
 		<td>
 		</td>
 	</tr>
+<!--	
 	<tr>
 		<td>
-			12/18
+			12/17
 		</td>
 		<td>
 			Advanced Topic I <br/>
