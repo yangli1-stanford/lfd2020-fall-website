@@ -199,7 +199,8 @@ TAs
 		</td>
 		<td>
 						}}
-			[media/WA3.pdf WA3]{{
+			[media/WA3.pdf WA3] |
+			[media/WA3_sol.pdf WA3 solution]{{
 		</td>
 	</tr>
 	<tr>
@@ -230,7 +231,8 @@ TAs
 		</td>
 		<td>
 						}}		
-			[media/WA4.pdf WA4]{{		
+			[media/WA4.pdf WA4] |
+			[media/WA4_sol.pdf WA4 solution]{{		
 		</td>
 	</tr>
 	<tr>
@@ -245,7 +247,8 @@ TAs
 			[media/lecture11-handout.pdf (slides)]{{
 		</td>
 		<td>
-			WA5
+						}}		
+			[media/WA5.pdf WA5]{{
 		</td>
 	</tr>		
 	<tr>
